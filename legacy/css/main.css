@@ -1,0 +1,160 @@
+
+.links {
+
+    position: absolute;
+    text-align: left;
+    color: white;
+    top: 610px;
+    left: 100px;
+}
+
+.logo {
+    position: fixed;
+    margin: auto;
+    top: 750;
+    left: 1500;
+    bottom: 0;
+    right: 0;
+    fill: #fff;
+    z-index: 2000;
+}
+
+.spacer {
+
+    margin-top: 20px;
+
+}
+
+.socials {
+
+    text-align: left;
+
+}
+
+
+body {
+
+    height: 100%;
+
+    width: 100%;
+
+    color: #000;
+
+    text-align: center;
+
+
+}
+
+
+
+.boxie {
+    position: absolute;
+    top: 100vh;
+    left: 100px;
+    max-width: 70em;
+    background-color: #ededed;
+    color: #323232;
+    padding: 50px;
+    border-radius: 5px;
+    /*text-align: center;*/
+    
+}
+
+.colour-ting {
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #1d1f21;
+    opacity: 0.7;
+
+}
+
+.linky {
+
+    font-size: 2em;
+    margin-right: 1em;
+
+}
+
+
+
+i {
+
+    transition: all 0.25s;
+
+}
+
+
+
+i:hover {
+
+   transform: scale(1.3);
+
+}
+
+
+
+h1 {
+
+    font-size: 2em;
+
+    cursor: default;
+
+}
+
+
+
+.brand {
+
+    max-width: 10em;
+
+}
+
+
+
+h2 {
+
+    font-weight: thin;
+
+    font-size: 3em;
+
+}
+
+.small {
+
+    max-width:50em;
+
+    text-align:center;
+
+    margin:auto;
+
+}
+
+
+
+.medium {
+
+    max-width:80em;
+
+    text-align:center;
+
+    margin:auto;
+
+}
+
+
+
+.shrink {
+
+    border-radius: 50%;
+
+    background-color: #ddd;
+
+    display: inline-block;
+
+    max-width: 7em;
+
+}
