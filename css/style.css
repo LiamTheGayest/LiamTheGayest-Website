@@ -1,5 +1,5 @@
 body {
-    background:url("../img/bg.png");
+    background:url("../img/bg.jpg");
     background-size:cover;
     background-repeat:no-repeat;
     background-position:center;
@@ -67,4 +67,3 @@ section[ id= "3"]:target ~ section[ id= "3"] {
     -webkit-transform: translateY( -1000px);
     transform: translateY( -1000px );
 }
-  
